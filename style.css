@@ -32,7 +32,7 @@ body {
 
 .cover:nth-child(1) {
   margin-top:0vh ;
-  margin-bottom:85vh ;
+  margin-bottom:88vh ;
   transform: rotate(0deg);
   
   color:  #ae8380;
@@ -43,14 +43,14 @@ body {
 .cover:nth-child(2) {
   
   transform: rotate(0deg);
-  
+  margin-bottom:0vh ;
   justify-content: flex-end;
   color: #a5ab6a;
 }
 
 .cover:nth-child(3) {
   margin-top:0vh ;
-  margin-bottom:10vh ;
+  margin-bottom:0vh ;
   transform: rotate(0deg);
 
   color:  #b59782;
